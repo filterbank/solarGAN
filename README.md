@@ -1,6 +1,7 @@
 # solarGAN
 
 ### module need to install:
+
 - torch>=0.4.0
 - torchvision
 - matplotlib
@@ -35,3 +36,7 @@ Run example:
 ```
 python solar_deconv.py --dataset 'your dataset name'
 ```
+
+Our code is based on the https://github.com/eriklindernoren/PyTorch-GAN
+
+Thanks for the author.
